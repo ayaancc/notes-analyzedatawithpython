@@ -17,14 +17,6 @@
     {
       "cell_type": "markdown",
       "source": [
-        "# Analyze Data With Python\n",
-        "Skills upon finishing:\n",
-        "* Ability to describe datasets visually\n",
-        "* Communicate insights visually\n",
-        "* Test hypotheses for statistical significance\n",
-        "* run an A/B test from start to finish\n",
-        "\n",
-        "\n",
         "# Section 1: Introduction to NumPy\n",
         "* NumPy allows us to work with large sets of numbers and calculate statistical properties\n",
         "* Some uses for NumPy include effficiently working with many numbers, generating random numbers, and performing numerical functions\n",
